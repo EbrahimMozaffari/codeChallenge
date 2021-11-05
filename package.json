@@ -1,0 +1,22 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "description": "words challenge #1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EbrahimMozaffari/codeChallenge.git"
+  },
+  "author": "Ebrahim Mozaffari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EbrahimMozaffari/codeChallenge/issues"
+  },
+  "homepage": "https://github.com/EbrahimMozaffari/codeChallenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
